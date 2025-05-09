@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.33.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v8.32.1...arize-phoenix-v8.33.0) (2025-05-09)
+
+
+### Features
+
+* **auth:** add arize auth, auto trigger login ([#7480](https://github.com/Arize-ai/phoenix/issues/7480)) ([b699bf8](https://github.com/Arize-ai/phoenix/commit/b699bf8e55fd08e5c57a1b275e0a4aaaf100cc80))
+
 ## [8.32.1](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v8.32.0...arize-phoenix-v8.32.1) (2025-05-08)
 
 
